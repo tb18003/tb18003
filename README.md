@@ -20,7 +20,7 @@
 
 ## Projects where I have been involved
 - 🦫 [Orcast](https://www.yellowbeavers.com) A pixel art game made with Unity.
-- 📊 [InfoChange](https://github.com/AFND-Industries/InfoChange) An exchanges simulator focused on cryptocoins.
+- 📊 [InfoChange](https://infochange.me) An exchanges simulator focused on cryptocoins.
 - 📨 [TapProject](https://github.com/AFND-Industries/tapProject) A secured and temporal UDP chat.
 
 ## 📍 Languages
