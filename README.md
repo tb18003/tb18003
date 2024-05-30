@@ -1,24 +1,30 @@
-# my portfolio :)
-(Currently studying Software Engineering at UMA)
+# My portfolio :)
+(Currently studying 3rd year on Software Engineering at UMA)
 
 ## Programming Languages
 - ☕ Java
-- 🪟 C#
+- 📜 JavaScript
 - ⚡ C/C++
+- 🪟 C#
 - 🐍 Python
+- 🐘 PHP
 - 📱 Dart (Flutter)
-- 📜 Javascript
+- ➕ Haskell
+- 📈 R
 
-## Databases (I have managed)
-- 🐬 MySQL / MariaDB
-- 🐘 PostgreSQL
-- 💾 SQLite
+## Frameworks
+- 💻 Flutter
+- 🪐 React JS
+- 🚀 Express JS
+- 🍃 Spring Boot
 
 ## Projects where I have been involved
-- 🦫 [Orcast](https://www.yellowbeavers.com)
+- 🦫 [Orcast](https://www.yellowbeavers.com) A pixel art game made with Unity.
+- 📊 [InfoChange](https://github.com/AFND-Industries/InfoChange) An exchanges simulator focused on cryptocoins.
+- 📨 [TapProject](https://github.com/AFND-Industries/tapProject) A secured and temporal UDP chat.
 
-## 📍 Languages (I speak)
-- 🥘 Spanish
+## 📍 Languages
+- 🥘 Spanish (native)
 - 🥐 French
 - 💂🏼 English
 <!--
