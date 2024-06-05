@@ -3,7 +3,7 @@ I am a student of software engineering at University of Málaga, and I have star
 
 ## Skills
 
-### Programming Languages
+### Programming Languages (except HTML and CSS)
 [![Programming Languages](https://skillicons.dev/icons?i=java,js,html,css,c,cpp,cs,python,php,dart,haskell,r)](https://skillicons.dev)
 
 ### Frameworks
