@@ -1,22 +1,20 @@
 # My portfolio :)
-(Currently studying 3rd year on Software Engineering at UMA)
+I am a student of software engineering at University of Málaga, and I have started with programming when I had 15 years old, learning Java and OOP by myself. During the college, I developed various projects, being some of them realized on our own, in order to learn new technologies and work with complex problems.
 
-## Programming Languages
-- ☕ Java
-- 📜 JavaScript
-- ⚡ C/C++
-- 🪟 C#
-- 🐍 Python
-- 🐘 PHP
-- 📱 Dart (Flutter)
-- ➕ Haskell
-- 📈 R
+## Skills
 
-## Frameworks
-- 💻 Flutter
-- 🪐 React JS
-- 🚀 Express JS
-- 🍃 Spring Boot
+### Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=java,js,html,css,c,cpp,cs,python,php,flutter,haskell,r)](https://skillicons.dev)
+
+### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=react,express,spring,dotnet,bootstrap)](https://skillicons.dev)
+
+### Databases
+[![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
+
+### Other software
+[![Other software](https://skillicons.dev/icons?i=nodejs,maven,vscode,idea)](https://skillicons.dev)
+
 
 ## Projects where I have been involved
 - 🦫 [Orcast](https://www.yellowbeavers.com) A pixel art game made with Unity.
@@ -27,17 +25,3 @@
 - 🥘 Spanish (native)
 - 🥐 French
 - 💂🏼 English
-<!--
-**tonicraft18/tonicraft18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
