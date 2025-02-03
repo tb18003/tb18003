@@ -7,13 +7,16 @@ I am a student of software engineering at University of Málaga, and I have star
 [![Programming Languages](https://skillicons.dev/icons?i=java,js,html,css,c,cpp,cs,python,php,dart,haskell,r)](https://skillicons.dev)
 
 ### Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=react,express,angular,ros,firebase,spring,flutter,dotnet,bootstrap)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,express,angular,ros,firebase,spring,flutter,dotnet,bootstrap,posix)](https://skillicons.dev)
 
 ### Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
 
+### Operative Systems
+[![Operative Systems](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows)](https://skillicons.dev)
+
 ### Other software
-[![Other software](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,vscode,idea,nodejs)](https://skillicons.dev)
+[![Other software](https://skillicons.dev/icons?i=vscode,idea,nodejs)](https://skillicons.dev)
 
 
 ## Projects where I have been involved
