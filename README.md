@@ -7,20 +7,23 @@ I am a student of software engineering at University of Málaga, and I have star
 [![Programming Languages](https://skillicons.dev/icons?i=java,js,html,css,c,cpp,cs,python,php,dart,haskell,r)](https://skillicons.dev)
 
 ### Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=react,express,angular,ros,firebase,spring,flutter,dotnet,bootstrap,posix)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,vite,angular,express,fastapi,ros,arduino,firebase,spring,flutter,dotnet,bootstrap)](https://skillicons.dev)
 
 ### Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongo)](https://skillicons.dev)
+
+### Cloud
+[![Cloud](https://skillicons.dev/icons?i=gcp,azure)](https://skillicons.dev)
 
 ### Operative Systems
 [![Operative Systems](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows)](https://skillicons.dev)
 
-### Other software
-[![Other software](https://skillicons.dev/icons?i=vscode,idea,nodejs)](https://skillicons.dev)
+### Other skills or software
+[![Other skills or software](https://skillicons.dev/icons?i=vscode,idea,nodejs,docker,latex,nginx)](https://skillicons.dev)
 
 
 ## Projects where I have been involved
-- 🦫 [Orcast](https://www.yellowbeavers.com) A pixel art game made with Unity.
+- 🦫 [Orcast](https://yellow-beavers.itch.io/orcast) A pixel art game made with Unity.
 - 📊 [InfoChange](https://infochange.me) An exchanges simulator focused on cryptocurrency.
 - 📨 [TapProject](https://github.com/AFND-Industries/tapProject) A secured and temporal UDP chat.
 
