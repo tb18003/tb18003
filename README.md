@@ -13,7 +13,7 @@ I am a student of software engineering at University of Málaga, and I have star
 [![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
 
 ### Other software
-[![Other software](https://skillicons.dev/icons?i=nodejs,maven,vscode,idea)](https://skillicons.dev)
+[![Other software](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,vscode,idea,nodejs)](https://skillicons.dev)
 
 
 ## Projects where I have been involved
